@@ -1,1 +1,1 @@
-# Veb-applications
+# Web-applications
